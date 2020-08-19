@@ -1,0 +1,434 @@
+A Block Decomposition Algorithm for Sparse Optimization
+Authors: Ganzhao Yuan: Peng Cheng Laboratory; Li Shen: Tencent AI LAB; Weishi Zheng: Sun Yat-sen University
+A causal look at statistical definitions of discrimination
+Authors: Elias Chaibub Neto: Sage Bionetworks
+A Data Driven Graph Generative Model for Temporal Interaction Networks
+Authors: Dawei Zhou: University of Illinois at Urbana-Champaign; Lecheng Zheng: University of Illinois at Urbana-Champaign; Jiawei Han: University of Illinois at Urbana-Champaign; Jingrui He: University of Illinois at Urbana-Champaign
+A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks
+Authors: Jianing Sun: Huawei Technologies Canada; Wei Guo: Huawei Noah's Ark Lab; Dengcheng Zhang: Huawei Distributed and Parallel Software Lab; Yingxue Zhang: Huawei Technologies Canada; Florence Robert-Regol: McGill University; Yaochen Hu: Huawei Technologies Canada; Huifeng Guo: Huawei Noah's Ark Lab; Ruiming Tang: Huawei Noah's Ark Lab; Han Yuan: Huawei Distributed and Parallel Software Lab; Xiuqiang He: Huawei Noah's Ark Lab; Mark Coates: McGill University
+A Geometric Approach to Predicting Bounds of Downstream Model Performance
+Authors: Brian J. Goode: Virginia Tech; Debanjan Datta: Virginia Tech
+A Geometric Approach to Time Series Chains Improves Robustness
+Authors: Makoto Imamura: Tokai University; Takaaki Nakamura: Mitsubishi Electric Corporation; Eamonn Keogh: University of California - Riverside
+A Non-Iterative Quantile Change Detection Method in Mixture Model with Heavy-Tailed Components
+Authors: Yuantong Li: Purdue University; Qi Ma: North Carolina State University; Sujit Ghosh: North Carolina State University
+A Novel Deep Learning Model by Stacking Conditional Restricted Boltzmann Machine and Deep Neural Network
+Authors: Tianyu Kang: University of Massachusetts Boston; Ping Chen: University of Massachusetts Boston; John Quackenbush: Harvard T.H. Chan School of Public Health; Wei Ding: University of Massachusetts Boston
+Adaptive Graph Encoder for Attributed Graph Embedding
+Authors: Ganqu Cui: Tsinghua University; Jie Zhou: Tsinghua University; Cheng Yang: Beijing University of Posts and Telecommunications; Zhiyuan Liu: Tsinghua University
+Adversarial Infidelity Learning for Model Interpretation
+Authors: Jian Liang: Cloud and Smart Industries Group, Tencent, China; Bing Bai: Cloud and Smart Industries Group, Tencent, China; Yuren Cao: Cloud and Smart Industries Group, Tencent, China; Kun Bai: Cloud and Smart Industries Group, Tencent, China; Fei Wang: Cornell University
+AdvMind: Inferring Adversary Intent of Black-Box Attacks
+Authors: Ren Pang: Penn State; Xinyang Zhang: Penn State; Shouling Ji: Zhejiang University; Xiapu Luo: Hong Kong Polytechnic University; Ting Wang: Penn State
+Algorithmic Aspects of Temporal Betweenness
+Authors: Sebastian Buß: TU Berlin; Hendrik Molter: TU Berlin; Rolf Niedermeier: TU Berlin; Maciej Rymar: TU Berlin
+Algorithmic Decision Making with Conditional Fairness
+Authors: Renzhe Xu: Tsinghua University; Peng Cui: Tsinghua University; Kun Kuang: Zhejiang University; Bo Li: Tsinghua University; Linjun Zhou: Tsinghua University; Zheyan Shen: Tsinghua University; Wei Cui: Squirrel AI Learning
+ALO-NMF: Accelerated Locality-Optimized Non-negative Matrix Factorization
+Authors: Gordon Moon: Sandia National Laboratories; J. Austin Ellis: Sandia National Laboratories; Aravind Sukumaran-Rajam: Washington State University; Srinivasan Parthasarathy: The Ohio State University; P. Sadayappann: University of Utah
+AM-GCN: Adaptive Multi-channel Graph Convolutional Networks
+Authors: Xiao Wang: Beijing University of Posts and Telecommunications; Meiqi Zhu: Beijing University of Posts and Telecommunications; Deyu Bo: Beijing University of Posts and Telecommunications; Peng Cui: Tsinghua University; Chuan Shi: Beijing University of Posts and Telecommunications; Jian Pei: Simon Fraser University
+An Efficient Neighborhood-based Interaction Model for Recommendation on Heterogeneous Graph
+Authors: Jiarui Jin: Shanghai Jiao Tong University; Jiarui Qin: Shanghai Jiao Tong University; Yuchen Fang: Shanghai Jiao Tong University; Kounianhua Du: Shanghai Jiao Tong University; Weinan Zhang: Shanghai Jiao Tong University; Yong Yu: Shanghai Jiao Tong University; Zheng Zhang: Amazon; Alexander Smola: Amazon
+An Embarrassingly Simple Approach for Trojan Attack in Deep Neural Networks
+Authors: Ruixiang Tang: Texas A&M University; Mengnan Du: Texas A&M University; Ninghao Liu: Texas A&M University; Fan Yang: Texas A&M University; Xia Hu: Texas A&M University
+ASGN: An Active Semi-supervised Graph Neural Network for Molecular Property Prediction
+Authors: Zhongkai Hao: University of Science and Technology of China; Chengqiang Lu: University of Science and Technology of China; Zhenya Huang: University of Science and Technology of China; Hao Wang: University of Science and Technology of China; Zheyuan Hu: University of Science and Technology of China; Qi Liu: University of Science and Technology of China; Enhong Chen: University of Science and Technology of China; Cheekong Lee: Tencent America
+Attackability Characterization of Adversarial Evasion Attack on Discrete Data
+Authors: Yutong Wang: King Abdullah University of Science and Technology; Yufei Han: NortonLifelock Research Group; Hongyan Bao: King Abdullah University of Science and Technology; Yun Shen: NortonLifelock Research Group; Fenglong Ma: Penn State University; Jin Li: Guangzhou Univeristy; Xiangliang Zhang: King Abdullah University of Science and Technology
+Attention and Memory-Augmented Networks for Dual-View Sequential Learning
+Authors: Yong He: Alibaba; Cheng Wang: Alibaba; Nan Li: Alibaba; Zhenyu Zeng: Alibaba
+Attentional Multi-graph Convolutional Network for Regional Economy Prediction with Open Migration Data
+Authors: Fengli Xu: Tsinghua University; Yong Li: Tsinghua University; Shusheng Xu: Tsinghua University
+AutoGrow: Automatic Layer Growing in Deep Convolutional Networks
+Authors: Wei Wen: Duke University; Feng Yan: University of Nevada - Reno; Yiran Chen: Duke University; Hai Li: Duke University
+AutoML Pipeline Selection: Efficiently Navigating the Combinatorial Space
+Authors: Chengrun Yang: Cornell University; Jicong Fan: Cornell University; Ziyang Wu: Cornell University; Madeleine Udell: Cornell University
+AutoShuffleNet: Learning Permutation Matrices via an Exact Lipschitz Continuous Penalty in Deep Convolutional Neural Networks
+Authors: Jiancheng Lyu: Qualcomm; Shuai Zhang: Qualcomm; Yingyong Qi: Qualcomm; Jack Xin: University of California, Irvine
+AutoST: Efficient Neural Architecture Search for Spatio-Temporal Prediction
+Authors: Ting Li: JD Intelligent Cities Business Unit; Junbo Zhang: JD Intelligent Cities Business Unit; Kainan Bao: south west jiaotong university; Yuxuan Liang: School of Computing, National University of Singapore; Yexin Li: Yexin Li Hong Kong University of Science and Technology; Yu Zheng: JD Intelligent Cities Business Unit
+Average Sensitivity of Spectral Clustering
+Authors: Pan Peng: Department of Computer Science, University of Sheffield, Sheffield, U.K.; Yuichi Yoshida: National Institute of Informatics
+BLOB: A Probabilistic Model for Recommendation that Combines Organic and Bandit Signals
+Authors: Otmane Sakhi: Criteo; Stephen Bonner: Durham University; David Rohde: Criteo; Flavian Vasile: Criteo
+Block Model Guided Unsupervised Feature Selection
+Authors: Zilong Bai: University of California, Davis; Hoa Nguyen: University of California, Davis; Ian Davidson: University of California, Davis
+BOND: Bert-Assisted Open-Domain Named Entity Recognition with Distant Supervision
+Authors: Chen Liang: Georgia Institute of Technology; Yue Yu: Georgia Institute of Technology; Haoming Jiang: Georgia Institute of Technology; Siawpeng Er: Georgia Institute of Technology; Ruijia Wang: Georgia Institute of Technology; Tuo Zhao: Georgia Institute of Technology; Chao Zhang: Georgia Institute of Technology
+Bridging the Gap between Superhuman AI and Human Behavior: Chess as a Model System
+Authors: Reid McIlroy-Young: University of Toronto; Siddhartha Sen: Microsoft Research; Jon Kleinberg: Cornell University; Ashton Anderson: University of Toronto
+CAST: A Correlation-based Adaptive Spectral Clustering Algorithm on Multi-scale Data
+Authors: Xiang Li: The University of Hong Kong; Ben Kao: The University of Hong Kong; Caihua Shan: The University of Hong Kong; Dawei Yin: JD.com; Martin Ester: Simon Fraser University
+Catalysis Clustering With GAN By Incorporating Domain Knowledge
+Authors: Olga Andreeva: University of Massachusetts Boston; Wei Li: Wuhan University; Wei Ding: University of Massachusetts Boston; Marieke Kuijjer: Centre for Molecular Medicine Norway, University of Oslo; John Quackenbush: Dana-Farber Cancer Institute; Ping Chen: University of Massachusetts Boston
+Certifiable Robustness of Graph Convolutional Networks under Structure Perturbations
+Authors: Daniel Zügner: Technical University of Munich; Stephan Günnemann: Technical University of Munich
+CICLAD: A Fast and Memory-efficient Closed Itemset Miner for Streams
+Authors: Tomas Martin: UQAM; Petko Valtchev: UQAM; Guy Francoeur: UQAM
+Combinatorial Black-Box Optimization with Expert Advice
+Authors: Hamid Dadkhahi: IBM Research; Karthikeyan Shanmugam: IBM Research; Jesus Rios: IBM Research; Payel Das: IBM Research; Samuel Hoffman: IBM Research; Troy David Loeffler: ANL; Subramanian Sankaranarayanan: UIC
+Competitive Analysis for Points of Interest
+Authors: Shuangli Li: University of Science and Technology of China; Jingbo Zhou: Baidu Inc.; Hao Liu: Business Intelligence Lab, Baidu Research; Xinjiang Lu: Baidu; Tong Xu: University of Science and Technology of China; Hui Xiong: the State University of New Jersey
+COMPOSE: Cross-Modal Pseudo-Siamese Network for Patient Trial Matching
+Authors: Junyi Gao: IQVIA; Cao Xiao: IQVIA; Lucas Glass: IQVIA; Jimeng Sun: University of Illinois Urbana-Champaign
+Compositional Embeddings Using Complementary Partitions for Memory-Efficient Recommendation Systems
+Authors: Hao-Jun Shi: Northwestern University; Dheevatsa Mudigere: Facebook; Maxim Naumov: Facebook; Jiyan Yang: Facebook
+Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks
+Authors: Zonghan Wu: University of Technology Sydney; Shirui Pan: Monash University; Guodong Long: University of Technology Sydney; Jing Jiang: University of Technology Sydney; Xiaojun Chang: Monash University; Chengqi Zhang: University of Technology Sydney
+Context-to-Session Matching: Utilizing Whole Session for Response Selection in Information-Seeking Dialogue Systems
+Authors: Zhenxin Fu: Peking University; Shaobo Cui: Alibaba Group; Mingyue Shang: Peking University; Feng Ji: DAMO Academy, Alibaba Group; Dongyan Zhao: Peking University; Haiqing Chen: Alibaba Group; Rui Yan: Peking University
+CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring
+Authors: Jiaxin Huang: University of Illinois at Urbana-Champaign; Yiqing Xie: The Hong Kong University of Science and Technology; Yu Meng: University of Illinois at Urbana-Champaign; Yunyi Zhang: University of Illinois at Urbana-Champaign; Jiawei Han: University of Illinois at Urbana-Champaign
+Correlation Networks for Extreme Multi-label Text Classification
+Authors: Guangxu Xun: University of Virginia; Kishlay Jha: University of Virginia; Jianhui Sun: University of Virginia; Aidong Zhang: University of Virginia
+Counterfactual Evaluation of Slate Recommendations with Sequential Reward Interactions
+Authors: James McInerney: Netflix; Brian Brost: Spotify; Praveen Chandar: Spotify; Rishabh Mehrotra: Spotify; Ben Carterette: Spotify
+Curb-GAN: Conditional Urban Traffic Estimation through Spatio-Temporal Generative Adversarial Networks
+Authors: Yingxue Zhang: Worcester Polytechnic Institute; Yanhua Li: Worcester Polytechnic Institute; Xun Zhou: University of Iowa; Xiangnan Kong: Worcester Polytechnic Institute; Jun Luo: Lenovo Group Limited
+CurvaNet: Geometric Deep Learning based on Multi-scale Directional Curvature for 3D Shape Analysis
+Authors: Wenchong He: University of Alabama; Zhe Jiang: Univ of Alabama; Chengming Zhang: Univ. of Alabama; Arpan Man Sainju: univ. of Alabama
+Data Compression as a Comprehensive Framework for Graph Drawing and Representation Learning
+Authors: Claudia Plant: Research Group Data Mining, University of Vienna, dsUniVie; Sonja Biedermann: University of Vienna; Christian Böhm: Ludwig Maximilian University of Munich
+Deep Exogenous and Endogenous Influence Combination for Social Chatter Intensity Prediction
+Authors: Subhabrata Dutta: Jadavpur University, India; Sarah Masud: IIIT-Delhi, India; Soumen Chakrabarti: IIT Bombay, India; Tanmoy Chakraborty: IIIT-Delhi, India
+Deep Learning of High-Order Interactions for Protein Interface Prediction
+Authors: Yi Liu: Texas A&M University; Hao Yuan: Texas A&M University; Lei Cai: Washington State University; Shuiwang Ji: Texas A&M University
+Deep State-Space Generative Model For Correlated Time-to-Event Predictions
+Authors: Yuan Xue: Google; Denny Zhou: Google; Nan Du: Google; Andrew Dai: Google; Zhen Xu: Google; Kun Zhang: Google; Claire Cui: Google
+DeepLine: AutoML Tool for Pipelines Generation using Deep Reinforcement Learning and Hierarchical Actions Filtering
+Authors: Yuval Heffetz: Ben Gurion University; Roman Vainshtein: Ben Gurion University; Gilad Katz: Ben Gurion University; Lior Rokach: Ben Gurion University
+DeepSinger: Singing Voice Synthesis with Data Mined From the Web
+Authors: Yi Ren: Zhejiang University; Xu Tan: Microsoft; Tao Qin: Microsoft; Jian Luan: Microsoft STCA Xiaoice; Zhou Zhao: Zhejiang University; Tie-Yan Liu: Microsoft
+DETERRENT: Knowledge Guided Graph Attention Network for Detecting Healthcare Misinformation
+Authors: Limeng Cui: The Pennsylvania State University; Haeseung Seo: The Pennsylvania State University; Maryam Tabar: The Pennsylvania State University; Fenglong Ma: The Pennsylvania State University; Suhang Wang: The Pennsylvania State University; Dongwon Lee: The Pennsylvania State University
+Directional Multivariate Ranking
+Authors: Nan Wang: University of Virginia; Hongning Wang: University of Virginia
+Discovering Approximate Functional Dependencies using Smoothed Mutual Information
+Authors: Frédéric Pennerath: CentraleSupélec; Panagiotis Mandros: Max-Planck-Institut für Informatik; Jilles Vreeken: CISPA Helmholtz Center for Information Security
+Discovering Functional Dependencies from Mixed-Type Data
+Authors: Panagiotis Mandros: Max Planck Institute for Informatics; David Kaltenpoth: CISPA Helmholtz Center for Information Security; Mario Boley: Monash University; Jilles Vreeken: CISPA Helmholtz Center for Information Security
+Discovering Succinct Pattern Sets Expressing Co-Occurrence and Mutual Exclusivity
+Authors: Jonas Fischer: Max Planck Institute for Informatics; Jilles Vreeken: CISPA Helmholtz Center for Information Security
+Disentangled Self-Supervision in Sequential Recommenders
+Authors: Jianxin Ma: Alibaba Group; None: Tsinghua University; Chang Zhou: Alibaba Group; Hongxia Yang: Alibaba Group; Cui Peng: Tsinghua University; Xin Wang: Tsinghua University; Wenwu Zhu: Tsinghua University
+Diverse Rule Sets
+Authors: Guangyi Zhang: KTH Royal Institute of Technology; Aristides Gionis: KTH Royal Institute of Technology
+Dual Channel Hypergraph Collaborative Filtering
+Authors: Shuyi Ji: Tsinghua University; Yifan Feng: Xiamen University; Rongrong Ji: Xiamen University; Xibin Zhao: Tsinghua University; Wanwan Tang: Baidu, Inc.; Yue Gao: Tsinghua University
+Dynamic Knowledge Graph based Multi-Event Forecasting
+Authors: Songgaojun Deng: Stevens Institute of Technology; Huzefa Rangwala: George Mason University; Yue Ning: Stevens Institute of Technology
+Edge-consensus Learning: Deep Learning on P2P Networks with Nonhomogeneous Data
+Authors: Kenta Niwa: NTT Corporation; Noboru Harada: NTT Corporation; Guoqiang Zhang: University Technology of Sydney; Bastiaan Kleijn: Victoria University of Wellington
+Efficient Algorithm for the b-Matching Graph
+Authors: Yasuhiro Fujiwara: NTT; Atsutoshi Kumagai: NTT; Sekitoshi Kanai: NTT; Yasutoshi Ida: NTT; Naonori Ueda: NTT
+Enterprise Cooperation and Competition Analysis with Sign-Oriented Preference Network
+Authors: Le Dai: University of Science and Technology of China; Yu Yin: University of Science and Technology of China; Chuan Qin: University of Science and Technology of China; Tong Xu: University of Science and Technology of China; Xiangnan He: University of Science and Technology of China; Enhong Chen: University of Science and Technology of China; Hui Xiong: University of Science and Technology of China
+Estimating Properties of Social Networks via Random Walk considering Private Nodes
+Authors: Kazuki Nakajima: Tokyo Institute of Technology; Kazuyuki Shudo: Tokyo Institute of Technology
+Estimating the Percolation Centrality of Large Networks through Pseudo-dimension Theory
+Authors: Andre Vignatti: UFPR; Murilo da Silva: UFPR; Alane de Lima: UFPR
+Evaluating Conversational Recommender Systems via User Simulation
+Authors: Shuo Zhang: University of Stavanger; Krisztian Balog: University of Stavanger
+Evaluating Fairness using Permutation Tests
+Authors: Cyrus DiCiccio: Linkedin Corporation; Sriram Vasudevan: Linkedin Corporation; Kinjal Basu: Linkedin Corporation; Krishnaram Kenthapadi: Amazon AWS AI; Deepak Agarwal: Linkedin Corporation
+Fast R-STL: Efficient and Robust Seasonal-Trend Decompositionfor Time Series with Complex Patterns
+Authors: Qingsong Wen: Alibaba Group U.S.; Zhe Zhang: Alibaba Group U.S.; Yan Li: Alibaba Group U.S.; Liang Sun: Alibaba Group U.S.
+Feature-Induced Manifold Disambiguation for Multi-View Partial Multi-label Learning
+Authors: Jing-Han Wu: Southeast University; Xuan Wu: Alibaba Group; Qing-Guo Chen: Alibaba Group; Yao Hu: Alibaba Group; Min-Ling Zhang: Southeast University
+FedFast: Going Beyond Average for Faster Training of Federated Recommender Systems
+Authors: Khalil Muhammad: Insight Centre for Data Analytics, University College Dublin; Qinqin Wang: Insight Centre for Data Analytics, University College Dublin; Diarmuid O' Reilly-Morgan: Insight Centre for Data Analytics, University College Dublin; Elias Tragos: Insight Centre for Data Analytics, University College Dublin; Barry Smyth: Insight Centre for Data Analytics, University College Dublin; Neil Hurley: Insight Centre for Data Analytics, University College Dublin; James Geraci: Samsung Electronics; Aonghus Lawlor: Insight Centre for Data Analytics, University College Dublin
+Finding Effective Geo-social Group for Impromptu Activities with Diverse Demands
+Authors: Lu Chen: Swinburne University of Technology; Chengfei Liu: Swinburne University of Technology; Rui Zhou: Swinburne University of Technology; Jiajie Xu: Soochow University; Jeffrey Xu Yu: The Chinese University of Hong Kong; Jianxin Li: Deakin University
+FreeDOM: A Transferable Neural Architecture for Structured Information Extraction on Web Documents
+Authors: Bill Yuchen Lin: University of Southern California; Ying Sheng: Google; Nguyen Vo: Google; Sandeep Tata: Google
+From Online to Non-i.i.d. Batch Learning
+Authors: Yufei Tao: The Chinese University of Hong Kong; Shangqi Lu: The Chinese University of Hong Kong
+GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training
+Authors: Jiezhong Qiu: Tsinghua University; Qibin Chen: Tsinghua University; Yuxiao Dong: Microsoft; Jing Zhang: Renmin University; Hongxia Yang: DAMO Academy, Alibaba Group; Ming Ding: Tsinghua University; Kuansan Wang: Microsoft; Jie Tang: Tsinghua University
+Generic Outlier Detection in Multi-Armed Bandit
+Authors: Yikun Ban: University of Illinois at Urbana-Champaign; Jingrui He: University of Illinois at Urbana-Champaign
+Geodesic Forests
+Authors: Meghana Madhyastha: Johns Hopkins University; Gongkai Li: Johns Hopkins University; Veronika Strnadova-Neeley: Montana State University; James Browne: Johns Hopkins University; Joshua T. Vogelstein: Johns Hopkins University; Randall Burns: Johns Hopkins University; Carey E. Priebe: Johns Hopkins University
+Geography-Aware Sequential Location Recommendation
+Authors: Defu Lian: University of Science and Technology of China; Yongji Wu: University of Science and Technology of China; Yong Ge: University of Arizona; Xing Xie: Microsoft Research Asia; Enhong Chen: University of Science and Technology of China
+GHashing: Semantic Graph Hashing for Approximate Similarity Search in Graph Databases
+Authors: Zongyue Qin: Peking University; Yunsheng Bai: University of California, Los Angeles; Yizhou Sun: University of California, Los Angeles
+GPT-GNN: Generative Pre-Training of Graph Neural Networks
+Authors: Ziniu Hu: University of California, Los Angeles; Yuxiao Dong: Microsoft; Kuansan Wang: Microsoft; Kai-Wei Chang: University of California, Los Angeles; Yizhou Sun: University of California, Los Angeles
+GRACE: Generating Concise and Informative Contrastive Sample to Explain Neural Network Model
+Authors: Thai Le: The Pennsylvania State University; Suhang Wang: The Pennsylvania State University; Dongwon Lee: The Pennsylvania State University
+Grammatically Recognizing Images with Tree Convolution
+Authors: Guangrun Wang: Sun Yat-sen University; Guangcong Wang: Sun Yat-Sen University; Keze Wang: University of California, Los Angeles; Xiaodan Liang: Sun Yat-sen University; Liang Lin: Sun Yat-Sen University
+Graph Attention Networks over Edge Content-Based Channels
+Authors: Lu Lin: University of Virginia; Hongning Wang: University of Virginia
+Graph Structural-topic Neural Network
+Authors: Qingqing Long: Peking University; Yilun Jin: The Hong Kong University of Science and Technology; Guojie Song: Room 2307 in Science Building Two, Peking University, Beijing, China; Yi Li: Peking University; Wei Lin: Alibaba Inc.
+Graph Structure Learning for Robust Graph Neural Networks
+Authors: Wei Jin: Michigan State University; Yao Ma: Michigan State University; Xiaorui Liu: Michigan State University; Xianfeng Tang: Pennsylvania State University; Suhang Wang: Pennsylvania State University; Jiliang Tang: Michigan State University
+Grounding Visual Concepts for Multimedia Event Detection and Multimedia Event Captioning in Zero-shot Setting
+Authors: Zhihui Li: University of New South Wales; Xiaojun Chang: Monash University; Lina Yao: University of New South Wales; Shirui Pan: Monash University; Zongyuan Ge: Monash University; Huaxiang Zhang: Shandong Normal University
+Handling Information Loss of Graph Neural Networks for Session-based Recommendation
+Authors: Tianwen Chen: The Hong Kong University of Science and Technology; Raymond Chi-Wing Wong: The Hong Kong University of Science and Technology
+Heidegger: Interpretable Temporal Causal Discovery
+Authors: Mehrdad Mansouri: Simon Fraser University; Ali Arab: Simon Fraser University; Zahra Zohrevand: Simon Fraser University; Martin Eser: Simon Fraser University
+HGCN: A Heterogeneous Graph Convolutional Network-Based Deep Learning Model Toward Collective Classification
+Authors: Zhihua Zhu: Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China; Xinxin Fan: Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China; Xiaokai Chu: Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China; Jingping Bi: Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China
+HGMF: Heterogeneous Graph-based Fusion for Multimodal Data with Incompleteness
+Authors: Jiayi Chen: University of Virginia; Aidong Zhang: University of Virginia
+Hierarchical Attention Propagation for Healthcare Representation Learning
+Authors: Muhan Zhang: Washington University in St. Louis; Christopher King: Washington University in St. Louis; Michael Avidan: Washington University in St. Louis; Yixin Chen: Washington University in St. Louis
+Hierarchical Topic Mining via Joint Spherical Tree and Text Embedding
+Authors: Yu Meng: University of Illinois at Urbana-Champaign; Yunyi Zhang: University of Illinois at Urbana-Champaign; Jiaxin Huang: University of Illinois Urbana-Champaign; Yu Zhang: University of Illinois at Urbana-Champaign; Chao Zhang: Georgia Institute of Technology; Jiawei Han: University of Illinois at Urbana-Champaign
+High-Dimensional Similarity Search with Quantum-Assisted Variational Autoencoder
+Authors: Nicholas Gao: NASA Ames Research Center; Max Wilson: NASA Ames Research Center; Thomas Vandal: NASA Ames Research Center; Walter Vinci: NASA Ames Research Center; Ramakrishna Nemani: NASA Ames Research Center; Eleanor Rieffel: NASA Ames Research Center
+Higher-order Clustering in Complex Heterogeneous Networks
+Authors: Aldo Carranza: Stanford University; Ryan Rossi: Adobe Research; Anup Rao: Yale University; Eunyee Koh: Adobe
+HiTANet: Hierarchical Time-Aware Attention Networks for Risk Prediction on Electronic Health Records
+Authors: Junyu Luo: The Pennsylvania State University; Muchao Ye: The Pennsylvania State University; Cao Xiao: IQVIA; Fenglong Ma: The Pennsylvania State University
+HOLMES: Health OnLine Model Ensemble Serving for Deep Learning Models in Intensive Care Units
+Authors: Shenda Hong: Georgia Institute of Technology; Yanbo Xu: Georgia Institute of Technology; Alind Khare: Georgia Institute of Technology; Satria Priambada: Georgia Institute of Technology; Kevin Maher: Children’s Healthcare of Atlanta; Alaa Aljiffry: Children’s Healthcare of Atlanta; Jimeng Sun: University of Illinois Urbana-Champaign; Alexey Tumanov: Georgia Institute of Technology
+HOPS: Probabilistic Subtree Mining for Small and Large Graphs
+Authors: Pascal Welke: University of Bonn; Florian Seiffarth: University of Bonn; Michael Kamp: Monash University; Stefan Wrobel: Fraunhofer IAIS & Univ. of Bonn
+How to count triangles, without seeing the whole graph
+Authors: Suman Kalyan Bera: UC Santa Cruz; C. Seshadhri: University of California, Santa Cruz
+Hyperbolic Distance Matrices
+Authors: Puoya Tabaghi: University of Illinois at Urbana-Champaign; Ivan Dokmani?: University of Basel
+Hypergraph Clustering Based on PageRank
+Authors: Yuuki Takai: RIKEN Center for Advanced Intelligence Project / Department of Mathematics, Keio University; Atsushi Miyauchi: RIKEN AIP; Masahiro Ikeda: RIKEN; Yuichi Yoshida: National Institute of Informatics
+Identifying Sepsis Subphenotypes via Time-Aware Multi-Modal Auto-Encoder
+Authors: Changchang Yin: The Ohio State University; Ruoqi Liu: The Ohio State University; Dongdong Zhang: The Ohio State University; Ping Zhang: The Ohio State University
+Improving Conversational Recommender Systems via Knowledge Graph based Semantic Fusion
+Authors: Kun Zhou: Peking University; Xin Zhao: Renmin University of China, School of Information; Shuqing Bian: Renmin University of China; Yuanhang Zhou: Xidian University; Ji-Rong Wen: Renmin University; Jingsong Yu: Peking University
+Imputing Various Incomplete Attributes via Distance Likelihood Maximization
+Authors: Shaoxu Song: Tsinghua University; Yu Sun: Tsinghua University
+In and Out: Optimizing Overall Interaction in Probabilistic Graphs under Clustering Constraints
+Authors: Domenico Mandaglio: University of Calabria; Andrea Tagarelli: University of Calabria; Francesco Gullo: UniCredit
+Incremental Lossless Graph Summarization
+Authors: Jihoon Ko: Korea Advanced Institute of Science and Technology; Yunbum Kook: Korea Advanced Institute of Science and Technology; Kijung Shin: Korea Advanced Institute of Science and Technology
+Incremental Mobile User Profiling: Reinforcement Learning with Spatial Knowledge Graph for Modeling Event Streams
+Authors: Pengyang Wang: University of Central Florida; Kunpeng Liu: University of Central Florida; Lu Jiang: Northeast Normal University; Yanjie Fu: University of Central Florida; Xiaolin Li: Nanjing University
+InfiniteWalk: Deep Network Embeddings as Laplacian Embeddings with a Nonlinearity
+Authors: Sudhanshu Chanpuriya: University of Massachusetts Amherst; Cameron Musco: University of Massachusetts Amherst
+InFoRM: Individual Fairness on Graph Mining
+Authors: Jian Kang: University of Illinois at Urbana-Champaign; Jingrui He: University of Illinois at Urbana-Champaign; Ross Maciejewski: Arizona State University; Hanghang Tong: University of Illinois at Urbana-Champaign
+INPREM: An Interpretable and Trustworthy Predictive Model for Healthcare
+Authors: Xianli Zhang: Xi'an Jiaotong University; Buyue Qian: Xi'an Jiaotong University; Shilei Cao: Tencent Jarvis Lab; Yang Li: Xi'an Jiaotong University; Hang Chen: Xi'an Jiaotong University; Yefeng Zheng: Tencent Jarvis Lab; Ian Davidson: University of California - Davis
+Interactive Path Reasoning on Graph for Conversational Recommendation
+Authors: Wenqiang Lei: National University of Singapore; Gangyi Zhang: University of Science and Technology of China; Xiangnan He: University of Science and Technology of China; Yisong Miao: National University of Singapore; Xiang Wang: National University of Singapore; Liang Chen: Sun Yat-Sen University; Tat-Seng Chua: National University of Singapore
+Interpretability is a Kind of Safety: An Interpreter-based Ensemble for Adversary Defense
+Authors: Jingyuan Wang: Beihang University; Yufan Wu: Beihang University; Mingxuan Li: Beihang University; Xin Lin: Beihang University; Junjie Wu: Beihang University; Chao Li: Beihang University
+Isolation Distributional Kernel: A new tool for kernel based anomaly detection
+Authors: Kai Ming Ting: Nanjing University; Takashi Washio: Osaka University; Bi-Cun Xu: Nanjing University; Zhi-Hua Zhou: Nanjing University
+Joint Policy-Value Learning for Recommendation
+Authors: Olivier Jeunen: University of Antwerp; David Rohde: Criteo; Flavian Vasile: Criteo; Martin Bompaire: Criteo
+Kernel Assisted Learning for Personalized Dose Finding
+Authors: Liangyu Zhu: North Carolina State University; Wenbin Lu: North Carolina State University; Michael R. Kosorok: University of North Carolina at Chapel Hill; Rui Song: North Carolina State University
+Kronecker Attention Networks
+Authors: Hongyang Gao: Texas A&M University; Zhengyang Wang: Texas A&M University; Shuiwang Ji: Texas A&M University
+Laplacian Change Point Detection for Dynamic Graphs
+Authors: Shenyang Huang: McGill University, Quebec Institute for Artificial Intelligence (Mila); Yasmeen Hitti: McGill University, Quebec Institute for Artificial Intelligence (Mila); Guillaume Rabusseau: University of Montreal, Quebec Institute for Artificial Intelligence (Mila); Reihaneh Rabbany: McGill University, Quebec Institute for Artificial Intelligence (Mila)
+LayoutLM: Pre-training of Text and Layout for Document Image Understanding
+Authors: Yiheng Xu: Harbin Institute of Technology; Minghao Li: Beihang University; Lei Cui: Microsoft Research Asia; Shaohan Huang: Microsoft Research Asia; Furu Wei: Microsoft Research Asia; Ming Zhou: Microsoft Research Asia
+Learning Based Distributed Tracking
+Authors: Hao Wu: The University of Melbourne; Junhao Gan: The University of Melbourne; Rui Zhang: The University of Melbourne
+Learning Effective Road Network Representation with Hierarchical Graph Neural Networks
+Authors: Ning Wu: Beihang University; Xin Zhao: Renmin University of China; Jingyuan Wang: Beihang University; Dayan Pan: Beihang University
+Learning Opinion Dynamics From Social Traces
+Authors: Corrado Monti: ISI Foundation; Gianmarco De Francisci Morales: ISI Foundation; Francesco Bonchi: Fondazione ISI
+Learning Stable Graphs from Heterogeneous Confounded Environments
+Authors: Yue He: Tsinghua University; Peng Cui: Tsinghua University; Jianxin Ma: Tsinghua University; Zou Hao: Tsinghua University; Xiaowei Wang: Alibaba; Hongxia Yang: Alibaba; Philip S. Yu: University of Illinois at Chicago IL, USA
+Learning to Extract Attribute Value from Product via Question Answering: A Multi-task Approach
+Authors: Qifan Wang: Google Research; Li Yang: Google Research; Bhargav Kanagal: Google Research; Sumit Sanghai: Google Research; D. Sivakumar: Google Research; Bin Shu: Google; Zac Yu: Google; Jon Elsas: Google
+Learning Transferrable Parameters for Long-tailed Sequential User Behavior Modeling
+Authors: Jianwen Yin: zhejiang university; Chenghao Liu: Singapore Management University; Weiqing Wang: Monash University; Jianling Sun: Zhejiang University; Steven C.H. Hoi: Salesforce Research Asia
+Leveraging Model Inherent Variable Importance for Stable Online Feature Selection
+Authors: Johannes Haug: University of Tuebingen; Martin Pawelczyk: University of Tuebingen; Klaus Broelemann: Schufa Holding AG; Gjergji Kasneci: University of Tuebingen
+List-wise Fairness Criterion for Point Processes
+Authors: Jin Shang: Louisiana State University; Mingxuan Sun: Louisiana State University; Nina S. N. Lam: Louisiana State University
+Local Community Detection in Multiple Networks
+Authors: Dongsheng Luo: The Pennsylvania State University; Yuchen Bian: Baidu Research USA; Yaowei Yan: The Pennsylvania State University; Xiao Liu: The Pennsylvania State University; Jun Huan: Baidu; Xiang Zhang: The Pennsylvania State University
+Local Motif Clustering on Time-Evolving Graphs
+Authors: Dongqi Fu: University of Illinois at Urbana-Champaign; Dawei Zhou: University of Illinois at Urbana-Champaign; Jingrui He: University of Illinois at Urbana-Champaign
+LogPar: Logistic PARAFAC2 Factorization for Temporal Binary Data with Missing Values
+Authors: Kejing Yin: Hong Kong Baptist University; Ardavan Afshar: Georgia Institute of Technology; Joyce Ho: Emory University; William Cheung: Hong Kong Baptist University; Chao Zhang: Georgia Institute of Technology; Jimeng Sun: University of Illinois Urbana-Champaign
+Malicious Attacks against Deep Reinforcement Learning Interpretations
+Authors: Mengdi Huai: University of Virginia; Jianhui Sun: University of Virginia; Renqin Cai: University of Virginia; Liuyi Yao: University of New York at Buffalo; Aidong Zhang: University of Virginia
+MAMO: Memory-Augmented Meta-Optimization for Cold-start Recommendation
+Authors: Manqing Dong: University of New South Wales; Feng Yuan: University of New South Wales; Lina Yao: University of New South Wales; Xiwei Xu: Data 61; Liming Zhu: Data 61
+MCRapper: Monte-Carlo Rademacher Averages for Poset Families and Approximate Pattern Mining
+Authors: Leonardo Pellegrina: University of Padova; Cyrus Cousins: Brown University; Fabio Vandin: University of Padova; Matteo Riondato: Amherst College
+Measuring Model Complexity of Neural Networks with Curve Activation Functions
+Authors: Xia Hu: Simon Fraser University and Microsoft Research Asia; Weiqing Liu: Microsoft Research Asia; Jiang Bian: Microsoft Research Asia; Jian Pei: Simon Fraser University
+Meta-learning on Heterogeneous Information Networks for Cold-start Recommendation
+Authors: Yuanfu Lu: Beijing University of Posts and Telecommunications; Yuan Fang: Singapore Management University; Chuan Shi: Beijing University of Posts and Telecommunications
+Minimal Variance Sampling with Provable Guarantees for Fast Training of Graph Neural Networks
+Authors: Weilin Cong: The Pennsylvania State University; Rana Forsati: Microsoft Bing; Mahmut Kandemir: The Pennsylvania State University; Mehrdad Mahdavi: The Pennsylvania State University
+Minimizing Localized Ratio Cut Objectives in Hypergraphs
+Authors: Nate Veldt: Cornell University; Austin Benson: Cornell University; Jon Kleinberg: Cornell University
+Mining large quasi-cliques with quality guarantees from vertex neighborhoods
+Authors: Aritra Konar: University of Virginia; Nicholas Sidiropoulos: University of Virginia
+Mining Persistent Activity in Continually Evolving Networks
+Authors: Caleb Belth: University of Michigan; Xinyi Zheng: University of Michigan; Danai Koutra: University of Michigan
+MinSearch: An Efficient Algorithm for Similarity Search under Edit Distance
+Authors: Haoyu Zhang: Indiana University Bloomington; Qin Zhang: Indiana University Bloomington
+Missing Value Imputation for Mixed Data via Gaussian Copula
+Authors: Yuxuan Zhao: Cornell University; Madeleine Udell: Cornell University
+MoFlow: An Invertible Flow Model for Generating Molecular Graphs
+Authors: Chengxi Zang: Cornell University; Fei Wang: Cornell University
+Multi-class Data Description for Out-of-distribution Detection
+Authors: Dongha Lee: Pohang University of Science and Technology; Sehun Yu: Pohang University of Science and Technology; Hwanjo Yu: Pohang University of Science and Technology
+Multi-level Graph Convolutional Networks for Cross-platform Anchor Link Prediction
+Authors: Hongxu Chen: University of Technology Sydney; Hongzhi Yin: The University of Queensland; Xiangguo Sun: Southeast University; Tong Chen: The University of Queensland; Bogdan Gabrys: University of Technology Sydney; Katarzyna Musial: University of Technology Sydney
+Multi-Source Deep Domain Adaptation with Weak Supervision for Time-Series Sensor Data
+Authors: Garrett Wilson: Washington State University; Janardhan Rao Doppa: Washington State University; Diane J. Cook: Washington State University
+MultiImport: Inferring Node Importance in a Knowledge Graph from Multiple Input Signals
+Authors: Namyong Park: Carnegie Mellon University; Andrey Kan: Amazon; Xin Luna Dong: Amazon; Tong Zhao: Amazon; Christos Faloutsos: Carnegie Mellon University and Amazon
+Multimodal Learning with Incomplete Modalities by Knowledge Distillation
+Authors: Qi Wang: Michigan State University; Liang Zhan: University of Pittsburgh; Paul Thompson: University of Southern California; Jiayu Zhou: Michigan State University
+NetTrans: Neural Cross-Network Transformation
+Authors: Si Zhang: University of Illinois Urbana-Champaign; Hanghang Tong: University of Illinois Urbana-Champaign; Yinglong Xia: Facebook; Liang Xiong: Facebook; Jiejun Xu: HRL Laboratories, LLC.
+Neural Dynamics on Complex Networks
+Authors: Chengxi Zang: Cornell University; Fei Wang: Cornell University
+Neural Subgraph Isomorphism Counting
+Authors: Xin Liu: The Hong Kong University of Science and Technology; Haojie Pan: The Hong Kong University of Science and Technology; Mutian He: The Hong Kong University of Science and Technology; Yangqiu Song: The Hong Kong University of Science and Technology; Xin Jiang: Huawei Technologies Co. Ltd; Lifeng Shang: Huawei Technologies Co. Ltd
+Node-Edge Co-disentangled Representation Learning for Attributed Graph Generation
+Authors: Xiaojie Guo: George Mason University; Liang Zhao: George Mason University; Zhao Qin: Syracuse University; Lingfei Wu: IBM Research AI; Amarda Shehu: George Mason University; Yanfang Ye: West Virginia University
+NodeAug: Semi-Supervised Node Classification with Data Augmentation
+Authors: Yiwei Wang: National University of Singapore; Wei Wang: National University of Singapore; Yuxuan Liang: National University of Singapore; Yujun Cai: Nanyang Technological University; Juncheng Liu: National University of Singapore; Bryan Hooi: National University of Singapore
+Non-Linear Mining of Social Activities in Tensor Streams
+Authors: Koki Kawabata: ISIR, Osaka University; Yasuko Matsubara: ISIR, Osaka University; Takato Honda: ISIR, Osaka University; Yasushi Sakurai: ISIR, Osaka University
+Off-policy Bandits with Deficient Support
+Authors: Noveen Sachdeva: IIIT Hyderabad; Yi Su: Cornell University; Thorsten Joachims: Cornell University
+On Sampled Metrics for Item Recommendation
+Authors: Walid Krichene: Google; Steffen Rendle: Google
+On Sampling Top-K Recommendation Evaluation
+Authors: Dong Li: Kent State University; Ruoming Jin: Kent State University; Jing Gao: iLambda; Zhi Liu: iLambda
+Parallel DNN Inference Framework Leveraging a Compact RISC-V ISA-based Multi-core System
+Authors: Yipeng Zhang: Wuhan University; Bo Du: Wuhan University; Lefei Zhang: Wuhan University; Jia Wu: Macquarie University
+Parameterized Correlation Clustering in Hypergraphs and Bipartite Graphs
+Authors: Nate Veldt: Cornell University; David F. Gleich: Purdue University; Anthony Wirth: The University of Melbourne
+Partial Multi-Label Learning via Probabilistic Graph Matching Mechanism
+Authors: Gengyu Lyu: School of Computer and Information Technology, Beijing Jiaotong University; Songhe Feng: School of Computer and Information Technology, Beijing Jiaotong University; Yidong Li: School of Computer and Information Technology, Beijing Jiaotong University
+Personalized PageRank to a Target Node, Revisited
+Authors: Hanzhi Wang: Renmin University of China; Zhewei Wei: Renmin University of China; Junhao Gan: University of Melbourne; Sibo Wang: The Chinese University of Hong Kong; Zengfeng Huang: Fudan University
+PolicyGNN: Aggregation Optimization for Graph Neural Networks
+Authors: Kwei Herng Lai: Texas A&M University; Daochen Zha: Texas A&M University; Kaixiong Zhou: Texas A&M University; Xia Hu: Texas A&M University
+Predicting Temporal Sets with Deep Neural Networks
+Authors: Le Yu: Beihang University; Leilei Sun: Beihang University; Bowen Du: Beihang University; Chuanren Liu: University of Tennessee; Hui Xiong: Rutgers University; Weifeng Lv: Beihang University
+Prediction and Profiling of Audience Competition for Online Television Series
+Authors: Peng Zhang: Alibaba Group; Chuanren Liu: University of Tennessee; Kefeng Ning: Alibaba Group; Wenxiang Zhu: Alibaba Group; Yu Zhang: Alibaba Group
+Preserving Dynamic Attention for Long-Term Spatial-Temporal Prediction
+Authors: Haoxing Lin: University of Macau; Rufan Bai: University of Macau; Weijia Jia: University of Macau; Xinyu Yang: University of Macau; Yongjian You: Shanghai Jiao Tong University
+Prioritized Restreaming Algorithms for Balanced Graph Partitioning
+Authors: Amel Awadelkarim: Stanford University; Johan Ugander: Stanford University
+Probabilistic Metric Learning with Adaptive Margin for Top-K Recommendation
+Authors: Chen Ma: McGill University; Liheng Ma: McGill University; Yingxue Zhang: Huawei Technologies Canada; Ruiming Tang: Huawei Noah's Ark Lab; Xue Liu: McGill University; Mark Coates: McGill University
+RayS: A Ray Searching Method for Hard-label Adversarial Attack
+Authors: Jinghui Chen: University of California, Los Angeles; Quanquan Gu: University of California, Los Angeles
+Re-identification Attack to Privacy-Preserving Data Analysis with Noisy Sample-Mean
+Authors: Du Su: University of Illinois, Urbana-Champaign; Wenmiao Lu: Verizon Media; Hieu Tri Huynh: University of Illinois, Urbana-Champaign; Ziao Chen: University of Illinois, Urbana-Champaign; Yi Lu: University of Illinois at Urbana-Champaign
+REA: Robust Cross-lingual Entity Alignment Between Knowledge Graphs
+Authors: Shichao Pei: King Abdullah University of Science and Technology; Lu Yu: KAUST; Guoxian Yu: King Abdullah University of Science and Technology; Xiangliang Zhang: King Abdullah University of Science and Technology
+Reciptor: An Effective Pretrained Model for Recipe Representation Learning
+Authors: Diya Li: Rensselaer Polytechnic Institute; Mohammed Zaki: Rensselaer Polytechnic Institute
+RECORD: Resource Constrained Semi-Supervised Learning under Distribution Shift
+Authors: Lan-Zhe Guo: Nanjing University; Zhi Zhou: Nanjing University; Yu-Feng Li: Nanjing University
+Recurrent Halting Chain for Early Multi-label Classification
+Authors: Thomas Hartvigsen: Worcester Polytechnic Institute; Cansu Sen: Worcester Polytechnic Institute; Xiangnan Kong: Worcester Polytechnic Institute; Elke Rundensteiner: Worcester Polytechnic Institute
+Recurrent Networks for Guided Multi-Attention Classification
+Authors: Xin Dai: Worcester Polytechnic Institute; Xiangnan Kong: Worcester Polytechnic Institute; Tian Guo: Worcester Polytechnic Institute; John Lee: Worcester Polytechnic Institute; Xinyue Liu: Worcester Polytechnic Institute; Constance Moore: University of Massachusetts Medical School
+Redundancy-Free Computation for Graph Neural Networks
+Authors: Zhihao Jia: Stanford Universiity; Sina Liin: Microsoft; Rex Ying: Stanford University; Jiaxuan You: Stanford University; Alexandra Porter: Stanford University; Jure Leskovec: Stanford University; Alex Aiken: Stanford University
+Representing Temporal Attributes for Schema Matching
+Authors: Yinan Mei: Tsinghua University; Shaoxu Song: Tsinghua University; Yunsu Lee: Samsung Research; Jungho Park: Samsung Research; Soo-Hyung Kim: Samsung Research; Sungmin Yi: Samsung Research
+Residual Correlation in Graph Neural Network Regression
+Authors: Junteng Jia: Cornell University; Austin Benson: Cornell University
+Rethinking Pruning for Accelerating Deep Inference At the Edge
+Authors: Dawei Gao: Beihang University; Xiaoxi He: ETH Zürich; Zimu Zhou: Singapore Management University; Yongxin Tong: Beihang University; Ke Xu: Beihang University; Lothar Thiele: ETH Zürich
+Retrospective Loss: Looking Back to Improve Training of Deep Neural Networks
+Authors: Surgan Jandial: IIT Hyderabad; Ayush Chopra: Media and Data Science Research Lab, Adobe; Mausoom Sarkar: Media and Data Science Research Lab, Adobe; Piyush Gupta: Media and Data Science Research Lab, Adobe; Balaji Krishnamurthy: Media and Data Science Research Lab, Adobe; Vineeth Balasubramanian: IIT Hyderabad
+Rich Information is Affordable: A Systematic Performance Analysis of Second-order Optimization Using K-FAC
+Authors: Yuichiro Ueno: Tokyo Institute of Technology; Kazuki Osawa: Tokyo Institute of Technology; Yohei Tsuji: Tokyo Institute of Technology; Akira Naruse: NVIDIA; Rio Yokota: Tokyo Institute of Technology
+Robust Spammer Detection by Nash Reinforcement Learning
+Authors: Yingtong Dou: University of Illinois at Chicago; Guixiang Ma: Intel Labs; Philip S. Yu: University of Illinois at Chicago; Sihong Xie: Lehigh University
+Scaling choice models of relational social data
+Authors: Jan Overgoor: Stanford University; George Pakapol Supaniratisai: Stanford University; Johan Ugander: Stanford University
+SCE: Scalable Newtork Embedding from Sparsest Cut
+Authors: Shengzhong Zhang: Fudan University; Zengfeng Huang: The University of New South Wales; Haicang Zhou: Fudan University; Ziang Zhou: Fudan University
+SEAL: Learning Heuristics for Community Detection with Generative Adversarial Networks
+Authors: Yao Zhang: Fudan University; Yun Xiong: Fudan University; Yun Ye: Ant Financial Services Group; Tengfei Liu: Ant Financial Services Group; Weiqiang Wang: Ant Financial Services Group; Yangyong Zhu: Fudan University; Philip S. Yu: UIC
+Semantic Search in Millions of Equations
+Authors: Lukas Pfahler: TU Dortmund University; Katharina Morik: TU Dortmund University
+Semi-supervised Collaborative Filtering by Text-enhanced Domain Adaptation
+Authors: Wenhui Yu: Tsinghua University; Xiao Lin: Alibaba Group; Junfeng Ge: Alibaba Group; Wenwu Ou: Alibaba Group; Zheng Qin: Tsinghua University
+Semi-Supervised Multi-Label Learning from Crowds via Deep Sequential Generative Model
+Authors: Wanli Shi: Nanjing University of Information Science & Technology; Bin Gu: Nanjing University of Information Science & Technology; Xiang Li: University of Western Ontario; Victor S Sheng: Texas Tech University
+Sliding Sketches: A Framework using Time Zones for Data Stream Processing in Sliding Windows
+Authors: Xiangyang Gou: Peking University; Long He: Peking University; Yinda Zhang: Peking University; Ke Wang: Peking University; Xilai Liu: Peking University; Tong Yang: Peking University; Yi Wang: Southern University of Science and Technology; Bin Cui: Peking University
+Spectrum-Guided Adversarial Disparity Learning
+Authors: Zhe Liu: The University of New South Wales; Lina Yao: University of New South Wales; Lei Bai: University of New South Wales; Xianzhi Wang: University of Technology Sydney; Can Wang: Griffith University
+SSumM: Sparse Summarization of Massive Graphs
+Authors: Kyuhan Lee: Korea Advanced Institute of Science and Technology; Hyeonsoo Jo: Korea Advanced Institute of Science and Technology; Jihoon Ko: Korea Advanced Institute of Science and Technology; Sungsu Lim: Chungnam National University; Kijung Shin: Korea Advanced Institute of Science and Technology
+ST-SiameseNet: Spatio-Temporal Siamese Networks for Human Mobility Signature Identification
+Authors: Huimin Ren: Worcester Polytechnic Institute; Menghai Pan: Worcester Polytechnic Institute; Yanhua Li: Worcester Polytechnic Institute; Xun Zhou: The University of Iowa; Jun Luo: Lenovo Group Limited
+Stable Learning via Differentiated Variable Decorrelation
+Authors: Zheyean Shen: Tsinghua University; Peng Cui: Tsinghua University; Jiashuo Liu: Tsinghua University; Tong Zhang: Hong Kong University of Science and Technology; Bo Li: Tsinghua University; Zhitang Chen: Huawei Noah's Ark Lab
+Statistically Significant Pattern Mining with Ordinal Utility
+Authors: Thien Q. Tran: University of Tsukuba; Kazuto Fukuchi: University of Tsukuba; Youhei Akimoto: University of Tsukuba; Jun Sakuma: University of Tsukuba
+STEAM: Self-Supervised Taxonomy Expansion via Path-Based Multi-View Co-Training
+Authors: Yue Yu: Georgia Institute of Technology; Yinghao Li: Georgia Institute of Technology; Jiaming Shen: University of Illinois at Urbana Champaign; Hao Feng: UESTC; Jimeng Sun: University of Illinois at Urbana Champaign; Chao Zhang: Georgia Institute of Technology
+Structural Patterns and Generative Models of Real-world Hypergraphs
+Authors: Manh Tuan Do: Korea Advanced Institute of Science and Technology; Se-eun Yoon: Korea Advanced Institute of Science and Technology; Bryan Hooi: National University of Singapore; Kijung Shin: Korea Advanced Institute of Science and Technology
+Targeted Data-driven Regularization for Out-of-Distribution Generalization
+Authors: Mohammad Mahdi Kamani: The Pennsylvania State University; Sadegh Farhang: Pennsylvania State University; Mehrdad Mahdavi: The Pennsylvania State University; James Wang: The Pennsylvania State University
+Task-Adaptive Graph Meta-learning
+Authors: Qiuling Suo: University at buffalo; Jingyuan Chou: University of Virginia; Weida Zhong: University at Buffalo; Aidong Zhang: University of Virginia
+The NodeHopper: Enabling low latency ranking with constraints via a fast dual solver
+Authors: Ivan Lobov: DeepMind; Krishnamurthy Dj Dvijotham: DeepMind; Anton Zhernov: DeepMind; Dan A. Calian: DeepMind; Michelle Gong: DeepMind; Timothy A. Mann: DeepMind; Natarajan Chandrashekar: Google
+The Spectral Zoo of Networks: Embedding and Visualizing Networks with Spectral Moments
+Authors: Shengmin Jin: Syracuse University; Reza Zafarani: Syracuse University
+Tight Sensitivity Bounds For Smaller Coresets
+Authors: Alaa Maalouf: University of Haifa; Adiel Statman: University of Haifa; Dan Feldman: University of Haifa
+TinyGNN: Learning Efficient Graph Neural Networks
+Authors: Bencheng Yan: Tsinghua University; Chaokun Wang: Tsinghua University; Gaoyang Guo: Tsinghua University; Yunkai Lou: Tsinghua University
+TIPRDC: Task-Independent Privacy-Respecting Data Crowdsourcing Framework for Deep Learning with Anonymized Intermediate Representations
+Authors: Ang Li: Duke University; Yixiao Duan: Beihang University; Huanrui Yang: Duke University; Yiran Chen: Duke University; Jianlei Yang: Beihang University
+Towards Automated Neural Interaction Discovering for Click-Through Rate Prediction
+Authors: Qingquan Song: Texas A&M University; Dehua Cheng: Facebook Inc.; Eric Zhou: Facebook Inc.; Jiyan Yang: Facebook Inc.; Yuandong Tian: Facebook Inc.; Xia Hu: Texas A&M University
+Towards Deeper Graph Neural Networks
+Authors: Meng Liu: Texas A&M University; Hongyang Gao: Texas A&M University; Shuiwang Ji: Texas A&M University
+Towards Fair Truth Discovery from Biased Crowdsourced Answers
+Authors: Yanying Li: Stevens Institute of Technology; Haipei Sun: Stevens Institute of Technology; Wendy Hui Wang: Stevens Institute of Technology
+Towards physics-informed deep learning for turbulent flow prediction
+Authors: Rui Wang: Northeastern University; Karthik Kashinath: Lawrence Berkeley National Laboratory; Mustafa Mustafa: Lawrence Berkeley National Laboratory; Adrian Albert: Lawrence Berkeley National Laboratory; Rose Yu: Northeastern University
+TranSlider: Transfer Ensemble Learning from Exploitation to Exploration
+Authors: Kuo Zhong: Graduate school at ShenZhen?Tsinghua university; Ying Wei: Tencent AI Lab; Chun Yuan: Graduate school at ShenZhen?Tsinghua university; Haoli Bai: The Chinese University of Hong Kong; Junzhou Huang: Tencent AI Lab
+Treatment Policy Learning in Multiobjective Settings with Fully Observed Outcomes
+Authors: Soorajnath Boominathan: Massachusetts Institute of Technology; Michael Oberst: Massachusetts Institute of Technology; Helen Zhou: Carnegie Mellon University; Sanjat Kanjilal: Harvard Medical School and Harvard Pilgrim Healthcare Institute, Department of Population Medicine; David Sontag: Massachusetts Institute of Technology
+Truth Discovery against Strategic Sybil Attack in Crowdsourcing
+Authors: Yue Wang: Simon Fraser University; Ke Wang: Simon Fraser University; Chunyan Miao: Nanyang Technological University
+Ultrafast Local Outlier Detection from a Data Stream with Stationary Region Skipping
+Authors: Susik Yoon: Korea Advanced Institute of Science and Technology; Jae-Gil Lee: Korea Advanced Institute of Science and Technology; Byung Suk Lee: University of Vermont
+Understanding Negative Sampling in Graph Representation Learning
+Authors: Zhen Yang: Department of Computer Science and Technology, Tsinghua University; Ming Ding: Department of Computer Science and Technology, Tsinghua University; Chang Zhou: DAMO Academy, Alibaba Group; Hongxia Yang: DAMO Academy, Alibaba Group; Jingren Zhou: DAMO Academy, Alibaba Group; Jie Tang: Department of Computer Science and Technology, Tsinghua University
+Unsupervised Differentiable Multi-aspect Network Embedding
+Authors: Chanyoung Park: University of Illinois at Urbana-Champaign; Carl Yang: University of Illinois at Urbana-Champaign; Qi Zhu: University of Illinois at Urbana-Champaign; Donghyun Kim: Yahoo Research; Hwanjo Yu: POSTECH; Jiawei Han: University of Illinois at Urbana-Champaign
+Unsupervised Paraphrasing via Deep Reinforcement Learning
+Authors: Muhammad Abu Bakar Siddique: University of California, Riverside; Samet Oymak: University of California, Riverside; Vagelis Hristidis: University of California, Riverside
+Vamsa: Automated Provenance Tracking in Data Science Scripts
+Authors: Mohammad Hossein Namaki: Washington State University; Avrilia Floratou: Microsoft; Fotis Psallidas: Microsoft; Subru Krishnan: Microsoft; Ashvin Agrawal: Microsoft; Yinghui Wu: Case Western Reserve University; Yiwen Zhu: Microsoft; Markus Weimer: Microsoft
+Voronoi Graph Traversal in High Dimensions with Applications to Topological Data Analysis and Piecewise Linear Interpolation
+Authors: Vladislav Polianskii: KTH Royal Institute of Technology; Florian T. Pokorny: KTH Royal Institute of Technology
+Vulnerability vs. Reliability: Disentangled Adversarial Examples for Cross-Modal Learning
+Authors: Chao Li: Xidian University; Haoteng Tang: University of Pittsburgh; Cheng Deng: Xidian University; Liang Zhan: University of Pittsburgh; Wei Liu: Tencent
+WavingSketch: An Unbiased and Generic Sketch for Finding Top-k Items in Data Streams
+Authors: Jizhou Li: Peking University Shenzhen Graduate School; Zikun Li: Peking University; Yifei Xu: Peking University; Shiqi Jiang: Peking University; Tong Yang: Peking University; Bin Cui: Peking University; Yafei Dai: Peking University; Gong Zhang: Huawei Technologies
+WeightGrad: Geo-Distributed Data Analysis Using Quantization for Faster Convergence and Better Accuracy
+Authors: Syeda Nahida Akter: Bangladesh University of Engineering and Technology; Muhammad Abdullah Adnan: University of California San Diego
+xGAIL: Explainable Generative Adversarial Imitation Learning for Explainable Human Decision Analysis
+Authors: Menghai Pan: Worcester Polytechnic Institute; Weixiao Huang: Worcester Polytechnic Institute; Yanhua Li: Worcester Polytechnic Institute (WPI); Xun Zhou: University of Iowa; Jun Luo: Lenovo Group Limited
+XGNN: Towards Model-Level Explanations of Graph Neural Networks
+Authors: Hao Yuan: Texas A&M University; Jiliang Tang: Michigan State University; Xia Hu: Texas A&M University; Shuiwang Ji: Texas A&M University
+Z-Miner: an efficient method for mining frequent arrangements of event intervals
+Authors: Zed Lee: Stockholm University; Tony Lindgren: Stockholm University; Panagiotis Papapetrou: Stockholm University
